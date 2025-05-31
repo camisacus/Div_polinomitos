@@ -1,1 +1,2 @@
 # Div_polinomitos
+Este proyecto me permitió aplicar **listas enlazadas** para manejar polinomios de manera flexible, sin depender de estructuras fijas. Aprendí a organizar términos en nodos, implementar operaciones como **suma, resta y división**, y visualizar el proceso paso a paso. Además, la comprobación del resultado reforzó la importancia de validar cálculos en algoritmos estructurados. Esta experiencia me ayudó a mejorar mi comprensión de **estructuras de datos** y su aplicación en problemas matemáticos reales.
